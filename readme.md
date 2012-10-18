@@ -1,9 +1,10 @@
 Vagrant Init
 ============================================================
 
-A minimalist's vagrant project to jumpstart your VM projects. Starts simple
-with a bash script but you can configure Puppet, Chef, or any other
-provisioner that you like.
+A minimalistic approach to bootstrapping a vagrant project. Start simple with the included bash script provisioning.
+
+It is up to you to enhance the provisioning script or configure Puppet, Chef, or any other provisioner supported by
+vagrant.
 
 
 Requirements (install first)
@@ -12,6 +13,13 @@ Requirements (install first)
 -   Mac OSX, Linux, or Windows Operating System
 -   [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 -   [Vagrant](http://downloads.vagrantup.com/)
+
+
+Default Provisioned Software
+------------------------------
+
+- [Ubuntu Precise 32-bit](https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Boxes)
+- Vim
 
 
 Usage
