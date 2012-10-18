@@ -1,8 +1,9 @@
-Vagrant Start: A minimalist's vagrant bootstrap
+Vagrant Init
 ============================================================
 
-Very minimal vagrant project to jumpstart your project. Starts simple
-with a bash script but you can change that if your needs call for it.
+A minimalist's vagrant project to jumpstart your VM projects. Starts simple
+with a bash script but you can configure Puppet, Chef, or any other
+provisioner that you like.
 
 
 Requirements (install first)
@@ -20,3 +21,4 @@ Once you have all of the required software installed (VirtualBox, Vagrant) clone
 
     % # cd to the directory where you unarchived the tarball
     % vagrant up
+
