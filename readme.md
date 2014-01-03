@@ -10,7 +10,7 @@ vagrant.
 -   [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 -   [Vagrant](http://downloads.vagrantup.com/)
 
-NOTE: Mac OSX homebrew users can do `brew install brew-cask && brew cask install {virtualbox,vagrant}`.
+NOTE: Mac OSX [homebrew][] users can do `brew install brew-cask && brew cask install {virtualbox,vagrant}`.
 
 ## Default Provisioned Software
 
@@ -31,3 +31,7 @@ If you are new to vagrant or haven't played with it for some time, you have two 
 
 1. cd /tmp && vagrant init ; less Vagrantfile
 2. open 'http://docs.vagrantup.com/v2/getting-started/index.html'
+
+
+
+[homebrew]: http://brew.sh
