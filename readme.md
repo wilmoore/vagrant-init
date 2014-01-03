@@ -17,7 +17,7 @@ NOTE: Mac OSX [homebrew][] users can do:
 
 ## Default Provisioned Software
 
-- [Ubuntu Precise 32-bit](https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Boxes)
+- [Ubuntu Precise 64-bit](https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Boxes)
 - Vim
 
 
