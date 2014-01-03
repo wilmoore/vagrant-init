@@ -12,8 +12,8 @@ vagrant.
 
 NOTE: Mac OSX [homebrew][] users can do:
 
-- `brew install brew-cask`
-- `brew cask install {virtualbox,vagrant}`
+    brew install brew-cask
+    brew cask install {virtualbox,vagrant}
 
 ## Default Provisioned Software
 
